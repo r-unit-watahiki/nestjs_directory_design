@@ -1,0 +1,41 @@
+# 依存関係
+node_modules
+npm-debug.log
+
+# ビルド成果物
+dist
+build
+
+# 環境変数ファイル
+.env
+.env.local
+.env.*.local
+
+# Git関連
+.git
+.gitignore
+
+# エディタ設定
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# テスト関連
+coverage
+.nyc_output
+
+# ログファイル
+*.log
+logs
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# その他
+README.md
+.prettierrc
+.eslintrc.js
+eslint.config.mjs
